@@ -1,0 +1,63 @@
+#Ini {
+    text-align: center;
+    font-size: 15px;
+    background: rgba(0, 0, 0, 0.332);
+    padding: 0.1px 0.1px;
+    color: white;
+    
+}
+
+header ul a {
+    color: white;
+    margin: 0 60px;
+}
+
+header {
+    background: url(../img/NegroFND.avif);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    width: 100%;
+    padding-top: 40px;
+}
+
+#hero form input {
+    display: flex;
+    padding: 5px 1px;
+    width: 300px;
+    font-size: 15px;
+    margin: 10px auto;
+}
+
+#hero form button {
+    font-size: 15px;
+    padding: 12px 50px;
+    margin: 0px auto;
+    border-radius: 6px;
+    text-align: center;
+}
+
+#hero form {
+    width: 650px;
+    display: grid;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+#hero h2 {
+    text-align: center;
+    color: white;
+}
+
+#tabla {
+    text-align: center;
+    color: white;
+    border: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    border: solid 2px white;
+    padding: 0;
+}
